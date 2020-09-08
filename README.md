@@ -1,2 +1,2 @@
-# assignment-4
-PHP assignment WT
+# WTAS4
+Data fetched from JSON file using PHP
