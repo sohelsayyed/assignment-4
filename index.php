@@ -59,7 +59,7 @@
           </select>
           <br>
         
-          <table id="table" class="table table-hover">
+          <table id="tablek" class="tablek ">
             <tr>
               <th>Name</th>
               <td id="menuname"></td>
@@ -104,7 +104,7 @@
             <!-- <div class="footer1">
                 <div class="container-fluid"> -->
                     <p style="color: white;">&copy; Copyright 2020</p>
-                    <a href="mailto:knzope@mitaoe.ac.in">knzope@mitaoe.ac.in</a></p>
+                    <a href="mailto:sohelsayyed@mitaoe.ac.in">sohelsayyed@mitaoe.ac.in</a></p>
                     <!-- </div>
               </div> -->
         </footer>
